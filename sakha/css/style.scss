@@ -344,8 +344,8 @@ a:focus {
 
 // end slider section
 
-// about section
-.about_section {
+// Complaint Tracking System section
+.Complaint Tracking System_section {
   .row {
     align-items: center;
   }
@@ -368,11 +368,11 @@ a:focus {
   }
 }
 
-// end about section
+// end Complaint Tracking System section
 
-// service section
+// Resource Library section
 
-.service_section {
+.Resource Library_section {
   background-color: $primary2;
   color: $white;
   text-align: center;
@@ -381,7 +381,7 @@ a:focus {
     align-items: center;
   }
 
-  .service_container {
+  .Resource Library_container {
     display: flex;
     justify-content: center;
     padding: 35px 60px;
@@ -426,7 +426,7 @@ a:focus {
   }
 }
 
-// end service section
+// end Resource Library section
 
 // work section
 

@@ -5,7 +5,6 @@
 }
 
 @media (max-width: 992px) {
-
   .hero_area {
     height: auto;
   }
@@ -41,8 +40,6 @@
 }
 
 @media (max-width: 768px) {
-
-
   .slider_section .detail_box {
     text-align: center;
   }
@@ -59,15 +56,15 @@
     bottom: 11%;
   }
 
-  .about_section .row {
+  .Complaint Tracking System_section .row {
     flex-direction: column-reverse;
   }
 
-  .about_section .detail-box {
+  .Complaint Tracking System_section .detail-box {
     margin-top: 45px;
   }
 
-  .about_section .img-box {
+  .Complaint Tracking System_section .img-box {
     margin-top: -115px;
   }
 
@@ -91,7 +88,6 @@
 
   .client_section .heading_container {
     align-items: center;
-
   }
 
   .client_section .box {
@@ -108,7 +104,7 @@
     padding-top: 75px;
   }
 
-  .info_section .row>div {
+  .info_section .row > div {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -127,7 +123,8 @@
   }
 }
 
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+}
 
 @media (max-width: 420px) {
   .slider_section .detail_box h1 {
@@ -135,7 +132,8 @@
   }
 }
 
-@media (max-width: 360px) {}
+@media (max-width: 360px) {
+}
 
 @media (min-width: 1200px) {
   .container {
