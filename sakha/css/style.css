@@ -51,7 +51,7 @@ body {
   position: absolute;
   width: 20px;
   height: 20px;
-  background-color: #d8bf36;
+  background-color:#d83654;
   top: 50%;
   right: -30px;
   border-radius: 100%;
@@ -71,12 +71,12 @@ body {
 .sub_page .hero_area {
   height: auto;
   background: none;
-  background-color: #041858;
+  background-color: #d2379e;
 }
 
 .sub_page .footer_bg {
   background: none;
-  background-color: #041858;
+  background-color: #d2379e;
   padding-top: 45px;
 }
 
@@ -98,7 +98,7 @@ body {
 }
 
 .custom_nav-container .navbar-nav .nav-item.active .nav-link, .custom_nav-container .navbar-nav .nav-item:hover .nav-link {
-  background-color: #d8bf36;
+  background-color: #d83654;
 }
 
 a,
@@ -330,7 +330,7 @@ a:focus {
 
 .slider_section .carousel_btn-container .carousel-control-prev:hover,
 .slider_section .carousel_btn-container .carousel-control-next:hover {
-  background-color: #041858;
+  background-color: #d2379e;
 }
 
 .slider_section .carousel_btn-container .carousel-control-prev {
@@ -371,7 +371,7 @@ a:focus {
 }
 
 .service_section {
-  background-color: #041858;
+  background-color: #d2379e;
   color: #ffffff;
   text-align: center;
 }
@@ -572,7 +572,7 @@ a:focus {
   border-radius: 25px;
   -webkit-transform: translateX(-52.5%) rotate(-15deg);
           transform: translateX(-52.5%) rotate(-15deg);
-  background-color: #041858;
+  background-color: #d2379e;
 }
 
 .team_section .team_container .box .detail-box {
@@ -667,7 +667,7 @@ a:focus {
 
 .client_section .carousel_btn-container .carousel-control-prev:hover,
 .client_section .carousel_btn-container .carousel-control-next:hover {
-  background-color: #041858;
+  background-color: #d2379e;
 }
 
 .client_section .carousel_btn-container .carousel-control-prev {
